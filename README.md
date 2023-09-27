@@ -43,11 +43,14 @@ MultiCampus 데이터 분석&엔지니어 28회차
 	- streamlit
 ---
 ## 팀원
+![team](https://github.com/DongWonC/jeonse_price_forecast/assets/139542280/73971cff-d3f7-4bfc-a32b-c0d321974777)
+
 ---
-![[Pasted image 20230927142110.png]]
 
 ## 프로젝트 수행 방향
+![execution direction](https://github.com/DongWonC/jeonse_price_forecast/assets/139542280/68a81f36-bf37-4426-a347-314287adf5ce)
+
 ---
-![[Pasted image 20230927142233.png]]
+
 ## 프로젝트 코드
 ---
